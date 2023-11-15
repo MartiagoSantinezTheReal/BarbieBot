@@ -1,7 +1,4 @@
-# <Título del proyecto> - <Año>
-< Todo lo que esté entre llaves debe ser editado por ustedes y posteriormente eliminado>
-
-< Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
+# BarbieBot - 2023
 
 ### Historia del Battlebot
 < Contar la historia de vida de su battlebot.>
@@ -9,10 +6,8 @@
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
 
 ## Integrantes
-- <Integrante 1> - < Facultad>
-- <Integrante 2> - < Facultad>
-- <Integrante 3> - < Facultad>
-- <Integrante 4> - < Facultad>
+- Santiago Martínez - FCFM UCH
+- Esteban Aliaga - DIInf USACH
 
 
 ## Descripción del proyecto
